@@ -20,7 +20,7 @@ package main
 
 import (
     "fmt"
-    "github.com/blackwell-systems/bubbletea-components/picker"
+    "github.com/blackwell-systems/bubbletea-picker"
     "github.com/charmbracelet/bubbles/list"
     tea "github.com/charmbracelet/bubbletea"
 )
@@ -343,4 +343,4 @@ The base picker follows these principles:
 
 ## License
 
-See project root for license information.
+MIT License - see [LICENSE](LICENSE) for details.
